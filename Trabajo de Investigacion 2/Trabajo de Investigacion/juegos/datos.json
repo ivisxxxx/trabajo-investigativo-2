@@ -1,0 +1,12 @@
+[
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Quien pinto la Mona Lisa?1",
+        "respuesta": "Leonardo Da Vinci",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Miguel Angel",
+        "incorrecta3": "Monet",
+        "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FLa_Gioconda&psig=AOvVaw1GY3rQDzLqs-qTs1yCl9hH&ust=1705198293712000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDo6e-k2YMDFQAAAAAdAAAAABAD",
+        "object-fit": "cover"
+    }
+]
